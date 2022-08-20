@@ -1,5 +1,8 @@
 {
   "User": {
     "title": { "string": {} }
+  },
+  "[A-Z][a-z]{5,10}": {
+    "gift": "gggg1"
   }
 }
